@@ -1,1 +1,3 @@
-[] eat end eat 
+- eat 
+- read
+- walking
